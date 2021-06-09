@@ -10,5 +10,4 @@ The OS directory contains a compiled version of the Jack operating system.
 
  Markup : * Bullet list
               * Nested bullet
-                  * Sub-nested bullet etc
           * Bullet list item 2
