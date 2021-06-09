@@ -8,6 +8,6 @@ The bin directory contains the code of the nand2tetris software tools. It consis
 The builtInChips and the builtInVMCode directories contain files that are used by the supplied Hardware Simulator and VM Emulator, respectively.
 The OS directory contains a compiled version of the Jack operating system.
 
- Markup : * Bullet list
+* Bullet list
               * Nested bullet
           * Bullet list item 2
